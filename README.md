@@ -1,4 +1,4 @@
-# 📸 Scrolling Screenshot to PDF Maker
+# Scrolling Screenshot to PDF Maker
 
 Hi there! 
 
@@ -26,7 +26,7 @@ You'll need Python installed on your computer.
     pip install -r requirements.txt
     ```
 
-## 🎮 How to Use
+## How to Use
 
 1.  Run the app:
     ```bash
@@ -35,7 +35,7 @@ You'll need Python installed on your computer.
 2.  **Paste the URL** of the website you want to capture.
 3.  Wait for the page to load, then press **Enter** in the terminal.
 4.  **Draw a box** around the content you want to read.
-5.  Sit back and watch it scroll! 🍿
+5.  Sit back and watch it scroll! 
 6.  It will stop automatically when it reaches the bottom.
 
 > **Tip:** You can press `q` at any time to stop it manually.
